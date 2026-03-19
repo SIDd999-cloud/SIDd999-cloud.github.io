@@ -1,4 +1,4 @@
-Simone Porto — Portfolio
+Simone Porto — 
 Personal portfolio website built with vanilla HTML, CSS, and JavaScript. No frameworks, no dependencies — just clean code.
 Live: simoneporto.dev
 ---
